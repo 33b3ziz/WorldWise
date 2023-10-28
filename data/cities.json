@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Yvre-le-Polin",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-10-25T23:45:46.242Z",
+      "notes": "test\n",
+      "position": {
+        "lat": 47.816424058795796,
+        "lng": 0.17578125
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Wickhambrook",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-10-26T16:10:20.286Z",
+      "notes": "ggg",
+      "position": {
+        "lat": 52.18970263680547,
+        "lng": 0.5901977392589952
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Talavera de la Reina",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-26T16:26:30.075Z",
+      "notes": "",
+      "position": {
+        "lat": 39.94710991652843,
+        "lng": -4.878647376389798
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "England",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-10-26T22:11:34.293Z",
+      "notes": "",
+      "position": {
+        "lat": 53.71728088528422,
+        "lng": 0.19192992187499594
+      },
+      "id": 98443201
+    }
+  ]
+}

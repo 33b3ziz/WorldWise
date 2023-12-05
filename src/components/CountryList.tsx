@@ -11,7 +11,7 @@ import Spinner from "./Spinner";
 // }
 
 function CountryList() {
-  const { cities, isLoading } = useCities();
+  const { cities, isLoading } = useCities()!;
 
   if (isLoading) return <Spinner />;
 

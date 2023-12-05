@@ -8,7 +8,6 @@ import City from "./components/City.tsx";
 import Form from "./components/Form.tsx";
 // to fix flag problem in City component
 import ProtectedRoutes from "./pages/ProtectedRoutes";
-import { polyfillCountryFlagEmojis } from "country-flag-emoji-polyfill";
 import SpinnerFullPage from "./components/SpinnerFullPage.tsx";
 
 // import Product from "./pages/Product.tsx";
@@ -23,8 +22,6 @@ const Pricing = lazy(() => import("./pages/Pricing.tsx"));
 const Login = lazy(() => import("./pages/Login.tsx"));
 const PageNotFound = lazy(() => import("./pages/PageNotFound.tsx"));
 const AppLayout = lazy(() => import("./pages/AppLayout.tsx"));
-
-polyfillCountryFlagEmojis();
 
 function App() {
   return (
